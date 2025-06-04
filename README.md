@@ -1,15 +1,23 @@
-📘 Java Learning Journey
-This repository documents my personal journey of learning Java from the ground up. It includes hands-on examples and code snippets for better understanding of core concepts.
 
-✅ Topics Covered
-Java Basics
+<h1>Java Learning Journey</h1>
+<hr>
+<br>
+<strong>This repository documents my personal journey of learning Java from the ground up. It includes hands-on examples and code snippets for better understanding of core concepts.</strong>
 
-Variables, Data Types, Operators
+<h2>Topics Covered</h2>
+<br>
+<h3>Java Basics</h3>
+<ul>
+  <li>Variables</li>
+  <li> Data Types</li>
+  <li>Operators</li>
+</ul> 
 
-Control Flow
-
-Loops (for, while, do-while), Conditionals (if, switch)
-
+<h3>Control Flow</h3>
+<ul>
+  <li>Loops (for, while, do-while)</li>
+  <li>Conditionals (if, switch)</li>
+</ul>
 Constructors
 
 Default Constructors, Parameterized Constructors
